@@ -1,0 +1,6 @@
+list1 = [2,4,6,3,6]
+
+
+
+summedList = sum(list1)
+print(summedList)
